@@ -1,0 +1,18 @@
+{
+    "songs": [
+        {
+            "uri": "/tokyoPolicewoman.mp3",
+            "artist": "Mari Shibata",
+            "song": "Tokyo Policewoman",
+            "album": "post-Y2K",
+            "genre": "electro-classical"
+        },
+        {
+            "uri": "/Tokyo-Policewoman.mp3",
+            "artist": "Mari Shibata",
+            "song": "Tokyo Policewoman OG",
+            "album": "post-Y2K",
+            "genre": "electro-classical"
+        }
+    ]
+}
