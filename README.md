@@ -1,26 +1,30 @@
 # 3D Audio / Music Visualizer - Starter Boilerplate Code
 
-### Stripped back version of demos provided in the `react-three-fiber` docs (where audio is usually looped!) and was created for first-timers to study and understand how the core functionality is generated (i.e. with playback control one would expect from a typical music player).
+#### Stripped back version of demos provided in the `react-three-fiber` docs (where audio is usually looped). Created for first-timers to study and understand how the core functionality is generated (i.e. with playback control one would expect from a typical music player).
 
-N.B. Current / initial commit a desktop version, mobile responsiveness will be added next - as well as some other core improvements as part of this starter code. Eventually, a more custom version will be built for [this work-in-progress interactive documentary] (https://github.com/marishibata/digital-prejudice).
+<img width="1224" alt="mari-shibata-3d-javascript-audio-visualzer-starter" src="https://user-images.githubusercontent.com/76498339/210119966-0a4d8dc4-62a8-46ac-8ada-120f4ee07401.png">
 
-# Current features
+N.B. Current / initial commit a desktop version, mobile responsiveness will be added next - as well as some other core improvements as part of this starter code. A more custom version will be built for [this work-in-progress interactive documentary.](https://www.github.com/marishibata/digital-prejudice)
 
-- Basic `React Three Fiber` (THREE.js) canvas setup where a field of 3D geometries animate to a playlist of mp3s (old music produced by me)
+# Current Features
 
-- Audio playback states - including play / pause, previous and next functionalities - managed with `Zustand`
+- Basic `react-three-fiber` (THREE.js) canvas setup where a field of 3D geometries animate to a playlist of mp3s
+
+- Audio playback states - including play / pause, previous and next functionalities - managed with `zustand`
 
 - `TypeScript` support
 
-# A work in progress - next steps
+- `.mp3` audio supplied are old music produced by me 😬 new music will be added as and when
 
-- mobile responsiveness
+# A work-in-progress - Next Steps
 
-- add CSS-in-JS using `styled-components`
+- Mobile responsiveness
 
-- styling updates for 3D geometry visualizer with basic `WebGL` shader setup
+- Add CSS-in-JS using `styled-components`
 
-- toggle to visulizer featuring 3D models
+- Styling updates for 3D geometry visualizer with basic `WebGL` shader setup
+
+- Toggle to visualizer featuring 3D models
 
 # Getting Started
 
