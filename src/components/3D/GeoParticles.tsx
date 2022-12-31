@@ -16,7 +16,6 @@ export const GeometryParticles = () => {
   return (
     <>
       {/*@ts-ignore*/}
-      {/* <PerspectiveCamera /> */}
       <PerspectiveCamera makeDefault position={[1000, 1000, 1000]} zoom={100} />
       <OrbitControls minPolarAngle={Math.PI / 5} maxPolarAngle={Math.PI / 10}  />
       <ambientLight intensity={4} />
